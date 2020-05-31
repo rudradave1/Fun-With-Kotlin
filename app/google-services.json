@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820684630018",
+    "firebase_url": "https://fun-with-kotlin.firebaseio.com",
+    "project_id": "fun-with-kotlin",
+    "storage_bucket": "fun-with-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820684630018:android:5db49b433e3c61aa155f1b",
+        "android_client_info": {
+          "package_name": "com.example.funwithkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820684630018-4i3bf3842njfpdno2c9quei8f1ap848k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.funwithkotlin",
+            "certificate_hash": "e2b5afbfbfc17e71efc47b9c5acb8ad190694015"
+          }
+        },
+        {
+          "client_id": "820684630018-3n2ukh7jm3qq392uir39b2og8ic384on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbON6L6PfD4awlyPIqscYrfj7ptZDjqVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820684630018-3n2ukh7jm3qq392uir39b2og8ic384on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
